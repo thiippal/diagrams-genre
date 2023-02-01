@@ -1,10 +1,8 @@
 # Corpus-based insights into multimodality and genre in primary school science diagrams
 
-A repository for the article "Corpus-based insights into multimodality and genre in primary school science diagrams"
-
 ## Description
 
-This repository contains code associated with the article *Semiotically-grounded distant viewing of diagrams: insights from two multimodal corpora* by Tuomo Hiippala and John Bateman, published in [Digital Scholarship in the Humanities](https://doi.org/10.1093/llc/fqab063) (open access).
+This repository contains code associated with the article *Corpus-based insights into multimodality and genre in primary school science diagrams* by Tuomo Hiippala, published in XXX (open access).
 
 ## Preliminaries
 
