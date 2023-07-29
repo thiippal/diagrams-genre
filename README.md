@@ -14,13 +14,13 @@ To reproduce the results reported in the article, you must first download the fo
 Clone this repository and extract the AI2D corpus into the same directory under `ai2d`. Then extract the AI2D-RST corpus into the same directory as the AI2D corpus. The directory structure should be as below:
 
 ```
-ai2d
-├── ai2d-rst
-├── annotations
-├── images
-└── questions
-categories.json
-categories_ai2d-rst.json
+ai2d/
+├── ai2d-rst/
+├── annotations/
+├── images/
+└── questions/
+└── categories.json
+└── categories_ai2d-rst.json
 ```
 
 You should also [create a fresh virtual environment](https://docs.python.org/3/library/venv.html) for Python 3.8+ and install the libraries defined in `requirements.txt` using the following command:
