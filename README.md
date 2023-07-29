@@ -29,6 +29,14 @@ You should also [create a fresh virtual environment](https://docs.python.org/3/l
 
 ## Codebase
 
+`ai2d_rst.py` contains the scripts for building the AI2D-RST corpus.
+
+`01_extract_features_from_corpus.py` extracts information about multimodal discourse structure from the AI2D-RST corpus.
+
+`02_fit_umap.py` creates and plots UMAP embeddings for the AI2D-RST diagrams.
+
+`03_fit_umap.py` illustrates how to create and plot multiple embeddings into a single figure.
+
 ## Contact
 
 Questions? Open an issue on GitHub or e-mail me at tuomo dot hiippala @ helsinki dot fi.
